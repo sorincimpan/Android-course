@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tema2.8</string>
+    <string name="Name_Hint">Enter Your Name Here</string>
+    <string name="Surname_Hint">Enter Your Surname Here</string>
+    <string name="Age_hint">Enter Your Age Here</string>
+    <string name="Sex_Hint">Enter Your Sex Here</string>
+    <string name="Occupation_hint">Enter Your Occupation Here</string>
+</resources>

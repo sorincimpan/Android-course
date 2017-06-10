@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema2</string>
+    <string name="text3"><b><i>This text is bold and italic.</i></b></string>
+    <string name="text2"><i>This text is italic.This text is italic.This text is italic.This text is italic.</i></string>
+    <string name="text1"><b><u>This text is bold and underlined</u></b></string>
+
+</resources>

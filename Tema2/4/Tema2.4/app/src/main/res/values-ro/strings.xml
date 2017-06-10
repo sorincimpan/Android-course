@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tema2</string>
+    <string name="text1"><b><u>Acest text este ingrosat si subliniat</u></b></string>
+    <string name="text2"><i>Acest text este italic.Acest text este italic.Acest text este italic.</i></string>
+    <string name="text3"><b><i>Acest text este ingrosat si italic</i></b></string>
+</resources>

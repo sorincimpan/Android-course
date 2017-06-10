@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sorin.com.tema28.MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:layout_height="fill_parent">
+
+        <EditText
+            android:id="@+id/EditTextName"
+            android:layout_height="wrap_content"
+            android:hint="@string/Name_Hint"
+            android:inputType="textPersonName"
+            android:layout_width="fill_parent">
+        </EditText>
+
+        <EditText
+        android:id="@+id/EditTextSurname"
+        android:layout_height="wrap_content"
+        android:hint="@string/Surname_Hint"
+        android:inputType="textPersonName"
+        android:layout_width="fill_parent">
+    </EditText><EditText
+        android:id="@+id/EditTextAge"
+        android:layout_height="wrap_content"
+        android:hint="@string/Age_hint"
+        android:inputType="textPersonName"
+        android:layout_width="fill_parent">
+    </EditText><EditText
+        android:id="@+id/EditTextSex"
+        android:layout_height="wrap_content"
+        android:hint="@string/Sex_Hint"
+        android:inputType="textPersonName"
+        android:layout_width="fill_parent">
+    </EditText><EditText
+        android:id="@+id/EditTextOccupation"
+        android:layout_height="wrap_content"
+        android:hint="@string/Occupation_hint"
+        android:inputType="textPersonName"
+        android:layout_width="fill_parent">
+    </EditText>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Press To Continue" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
