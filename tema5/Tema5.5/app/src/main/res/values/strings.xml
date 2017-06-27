@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tema5.5</string>
+    <string name="actionbar_name">Action Bar</string>
+    <string name="button_name">Buton</string>
+    <string name="menu_action1_name">Action1</string>
+    <string name="menu_action2_name">Action2</string>
+    <string name="menu_action3_name">Action3</string>
+</resources>
